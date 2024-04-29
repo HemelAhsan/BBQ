@@ -228,7 +228,8 @@ header .navber nav ul li:last-child a:focus{color: #DB9423;
                                 flex: 0 0 50%;}
 .menu-section .menu{} .menu-img img{max-width: 180px;
                                     border-radius: 60px;
-                                    margin: 0 auto;}
+                                    margin: 0 auto;
+                                    box-shadow: 7px 2px 15px #808080b0;}
 
 
 .offer-section{margin: 100px 0;
